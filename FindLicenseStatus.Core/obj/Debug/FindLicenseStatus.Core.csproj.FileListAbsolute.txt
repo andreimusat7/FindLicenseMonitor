@@ -1,0 +1,18 @@
+C:\Users\Udi\Documents\Visual Studio 2012\Projects\FindLicenseStatus\FindLicenseStatus.Core\bin\Debug\FindLicenseStatus.Core.dll
+C:\Users\Udi\Documents\Visual Studio 2012\Projects\FindLicenseStatus\FindLicenseStatus.Core\bin\Debug\FindLicenseStatus.Core.pdb
+C:\Users\Udi\Documents\Visual Studio 2012\Projects\FindLicenseStatus\FindLicenseStatus.Core\obj\Debug\FindLicenseStatus.Core.dll
+C:\Users\Udi\Documents\Visual Studio 2012\Projects\FindLicenseStatus\FindLicenseStatus.Core\obj\Debug\FindLicenseStatus.Core.pdb
+C:\Users\Udi\Documents\Visual Studio 2012\Projects\FindLicenseStatus\FindLicenseStatus.Core\obj\Debug\FindLicenseStatus.Core.csprojResolveAssemblyReference.cache
+C:\Users\Udi\Documents\Visual Studio 2012\Projects\FindLicenseStatus\FindLicenseStatus.Core\bin\Debug\FindLicenseStatus.DAL.dll
+C:\Users\Udi\Documents\Visual Studio 2012\Projects\FindLicenseStatus\FindLicenseStatus.Core\bin\Debug\FindLinceseStatus.Model.dll
+C:\Users\Udi\Documents\Visual Studio 2012\Projects\FindLicenseStatus\FindLicenseStatus.Core\bin\Debug\FindLicenseStatus.DAL.pdb
+C:\Users\Udi\Documents\Visual Studio 2012\Projects\FindLicenseStatus\FindLicenseStatus.Core\bin\Debug\FindLinceseStatus.Model.pdb
+C:\Users\vep4\Desktop\FindLicenseStatus (2)\FindLicenseStatus\FindLicenseStatus.Core\bin\Debug\FindLicenseStatus.Core.dll
+C:\Users\vep4\Desktop\FindLicenseStatus (2)\FindLicenseStatus\FindLicenseStatus.Core\bin\Debug\FindLicenseStatus.Core.pdb
+C:\Users\vep4\Desktop\FindLicenseStatus (2)\FindLicenseStatus\FindLicenseStatus.Core\bin\Debug\FindLicenseStatus.DAL.dll
+C:\Users\vep4\Desktop\FindLicenseStatus (2)\FindLicenseStatus\FindLicenseStatus.Core\bin\Debug\FindLinceseStatus.Model.dll
+C:\Users\vep4\Desktop\FindLicenseStatus (2)\FindLicenseStatus\FindLicenseStatus.Core\bin\Debug\FindLicenseStatus.DAL.pdb
+C:\Users\vep4\Desktop\FindLicenseStatus (2)\FindLicenseStatus\FindLicenseStatus.Core\bin\Debug\FindLinceseStatus.Model.pdb
+C:\Users\vep4\Desktop\FindLicenseStatus (2)\FindLicenseStatus\FindLicenseStatus.Core\obj\Debug\FindLicenseStatus.Core.csprojResolveAssemblyReference.cache
+C:\Users\vep4\Desktop\FindLicenseStatus (2)\FindLicenseStatus\FindLicenseStatus.Core\obj\Debug\FindLicenseStatus.Core.dll
+C:\Users\vep4\Desktop\FindLicenseStatus (2)\FindLicenseStatus\FindLicenseStatus.Core\obj\Debug\FindLicenseStatus.Core.pdb

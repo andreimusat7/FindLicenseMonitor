@@ -1,0 +1,9 @@
+C:\Users\Udi\Documents\Visual Studio 2012\Projects\FindLicenseStatus\FindLicenseStatus.Timer\bin\Debug\FindLicenseStatus.Timer.dll
+C:\Users\Udi\Documents\Visual Studio 2012\Projects\FindLicenseStatus\FindLicenseStatus.Timer\bin\Debug\FindLicenseStatus.Timer.pdb
+C:\Users\Udi\Documents\Visual Studio 2012\Projects\FindLicenseStatus\FindLicenseStatus.Timer\obj\Debug\FindLicenseStatus.Timer.dll
+C:\Users\Udi\Documents\Visual Studio 2012\Projects\FindLicenseStatus\FindLicenseStatus.Timer\obj\Debug\FindLicenseStatus.Timer.pdb
+C:\Users\vep4\Desktop\FindLicenseStatus (2)\FindLicenseStatus\FindLicenseStatus.Timer\bin\Debug\FindLicenseStatus.Timer.dll
+C:\Users\vep4\Desktop\FindLicenseStatus (2)\FindLicenseStatus\FindLicenseStatus.Timer\bin\Debug\FindLicenseStatus.Timer.pdb
+C:\Users\vep4\Desktop\FindLicenseStatus (2)\FindLicenseStatus\FindLicenseStatus.Timer\obj\Debug\FindLicenseStatus.Timer.dll
+C:\Users\vep4\Desktop\FindLicenseStatus (2)\FindLicenseStatus\FindLicenseStatus.Timer\obj\Debug\FindLicenseStatus.Timer.pdb
+C:\Users\vep4\Desktop\FindLicenseStatus (2)\FindLicenseStatus\FindLicenseStatus.Timer\obj\Debug\FindLicenseStatus.Timer.csprojResolveAssemblyReference.cache

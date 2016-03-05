@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="LoginForm_error" xml:space="preserve">
+    <value>שם משתמש או סיסמה לא תקינים</value>
+  </data>
+  <data name="LoginForm_password" xml:space="preserve">
+    <value>סיסמה</value>
+  </data>
+  <data name="LoginForm_submit" xml:space="preserve">
+    <value>בצע</value>
+  </data>
+  <data name="LoginForm_username" xml:space="preserve">
+    <value>שם משתמש</value>
+  </data>
+  <data name="Report_allusers" xml:space="preserve">
+    <value>כולם</value>
+    <comment>In report dropdown we can select all users to cancel current user selection in the filter</comment>
+  </data>
+  <data name="Report_brightness" xml:space="preserve">
+    <value>הבהרות</value>
+  </data>
+  <data name="Report_cleanresults" xml:space="preserve">
+    <value>רק זמן עבודה</value>
+    <comment>Clean results - To see results in the report without 0 values</comment>
+  </data>
+  <data name="Report_daterange" xml:space="preserve">
+    <value>תקופת הדו"ח</value>
+    <comment>In the report, filter by date start - date end,</comment>
+  </data>
+  <data name="Report_display" xml:space="preserve">
+    <value>סוג הדוח</value>
+    <comment>Report- Display by Hour, Day, Week, Month. It is the dropdown with group  by Hour,Day,Month,Week</comment>
+  </data>
+  <data name="Report_findcars" xml:space="preserve">
+    <value>נמצאו</value>
+    <comment>Report column FIND CARS</comment>
+  </data>
+  <data name="Report_idles" xml:space="preserve">
+    <value>רדום</value>
+    <comment>Report column idle numbers</comment>
+  </data>
+  <data name="Report_magnifiers" xml:space="preserve">
+    <value>מגדלת</value>
+    <comment>Report column magnifier number</comment>
+  </data>
+  <data name="Report_negatives" xml:space="preserve">
+    <value>תשלילים</value>
+    <comment>Report column negatives number</comment>
+  </data>
+  <data name="Report_perday" xml:space="preserve">
+    <value>יומי</value>
+    <comment>Report - select filter by DAY</comment>
+  </data>
+  <data name="Report_perhour" xml:space="preserve">
+    <value>שעתי</value>
+    <comment>Report - select filter by HOUR</comment>
+  </data>
+  <data name="Report_permonth" xml:space="preserve">
+    <value>חודשי</value>
+    <comment>Report - select filter by MONTH</comment>
+  </data>
+  <data name="Report_perweek" xml:space="preserve">
+    <value>שבועי</value>
+    <comment>Report - select filter by WEEK</comment>
+  </data>
+  <data name="Report_readcars" xml:space="preserve">
+    <value>נקראו</value>
+    <comment>Report - read cars total</comment>
+  </data>
+  <data name="Report_scrollhits" xml:space="preserve">
+    <value>גלילות</value>
+    <comment>Report - the number of scrolll hits, column in report</comment>
+  </data>
+  <data name="Report_starttime" xml:space="preserve">
+    <value>התחלה</value>
+    <comment>Report - Start time column </comment>
+  </data>
+  <data name="Report_submit" xml:space="preserve">
+    <value>בצע</value>
+    <comment>Report - submit button for the filter</comment>
+  </data>
+  <data name="Report_users" xml:space="preserve">
+    <value>נציג</value>
+    <comment>Report - Users combo box</comment>
+  </data>
+  <data name="Report_zooms" xml:space="preserve">
+    <value>הגדלות</value>
+    <comment>Report - number of zooms column </comment>
+  </data>
+  <data name="StatusForm_brightnesstotal" xml:space="preserve">
+    <value>התאמות בהירות</value>
+  </data>
+  <data name="StatusForm_calculationtime" xml:space="preserve">
+    <value>מסגרת הזמן</value>
+    <comment>On tootl tip we display the calculation time used for presenting the data. Example: CurrentTime - 1H</comment>
+  </data>
+  <data name="StatusForm_find" xml:space="preserve">
+    <value>מצא</value>
+  </data>
+  <data name="StatusForm_findstotal" xml:space="preserve">
+    <value>סה"כ מצא</value>
+  </data>
+  <data name="StatusForm_inactive" xml:space="preserve">
+    <value>לא פעיל</value>
+  </data>
+  <data name="StatusForm_machine" xml:space="preserve">
+    <value>מחשב</value>
+  </data>
+  <data name="StatusForm_magnifierstotal" xml:space="preserve">
+    <value>סה"כ מגדלת</value>
+  </data>
+  <data name="StatusForm_Nachshonim" xml:space="preserve">
+    <value>נחשונים</value>
+  </data>
+  <data name="StatusForm_Nachshonim_total" xml:space="preserve">
+    <value>נחשונים - סה"כ</value>
+  </data>
+  <data name="StatusForm_negativestotal" xml:space="preserve">
+    <value>סה"כ תשלילים</value>
+  </data>
+  <data name="StatusForm_NoData" xml:space="preserve">
+    <value>שעה ללא פעילות</value>
+    <comment>When we have no data to display on ToolTip, nothing happened in the last hour</comment>
+  </data>
+  <data name="StatusForm_off" xml:space="preserve">
+    <value>כבוי</value>
+  </data>
+  <data name="StatusForm_otherprog" xml:space="preserve">
+    <value>תוכניות אחרות</value>
+  </data>
+  <data name="StatusForm_PT" xml:space="preserve">
+    <value>פתח תקווה</value>
+  </data>
+  <data name="StatusForm_PT_Total" xml:space="preserve">
+    <value>פתח תקווה - סה"כ</value>
+  </data>
+  <data name="StatusForm_read" xml:space="preserve">
+    <value>קרא</value>
+  </data>
+  <data name="StatusForm_readstotal" xml:space="preserve">
+    <value>סה"כ קרא</value>
+  </data>
+  <data name="StatusForm_scroolhitstotal" xml:space="preserve">
+    <value>סה"כ גלילה</value>
+  </data>
+  <data name="StatusForm_totalcarssaved" xml:space="preserve">
+    <value>סה"כ נשמרו</value>
+  </data>
+  <data name="StatusForm_vepclosed" xml:space="preserve">
+    <value>VEP סגור</value>
+  </data>
+  <data name="StatusForm_zoomstotal" xml:space="preserve">
+    <value>סה"כ זום</value>
+  </data>
+</root>

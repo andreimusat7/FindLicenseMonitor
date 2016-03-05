@@ -1,0 +1,10 @@
+C:\Users\Udi\Documents\Visual Studio 2012\Projects\FindLicenseStatus\FindLicenseStatus.DAL\bin\Debug\FindLicenseStatus.DAL.dll.config
+C:\Users\Udi\Documents\Visual Studio 2012\Projects\FindLicenseStatus\FindLicenseStatus.DAL\bin\Debug\FindLicenseStatus.DAL.dll
+C:\Users\Udi\Documents\Visual Studio 2012\Projects\FindLicenseStatus\FindLicenseStatus.DAL\bin\Debug\FindLicenseStatus.DAL.pdb
+C:\Users\Udi\Documents\Visual Studio 2012\Projects\FindLicenseStatus\FindLicenseStatus.DAL\obj\Debug\FindLicenseStatus.DAL.dll
+C:\Users\Udi\Documents\Visual Studio 2012\Projects\FindLicenseStatus\FindLicenseStatus.DAL\obj\Debug\FindLicenseStatus.DAL.pdb
+C:\Users\vep4\Desktop\FindLicenseStatus (2)\FindLicenseStatus\FindLicenseStatus.DAL\bin\Debug\FindLicenseStatus.DAL.dll.config
+C:\Users\vep4\Desktop\FindLicenseStatus (2)\FindLicenseStatus\FindLicenseStatus.DAL\bin\Debug\FindLicenseStatus.DAL.dll
+C:\Users\vep4\Desktop\FindLicenseStatus (2)\FindLicenseStatus\FindLicenseStatus.DAL\bin\Debug\FindLicenseStatus.DAL.pdb
+C:\Users\vep4\Desktop\FindLicenseStatus (2)\FindLicenseStatus\FindLicenseStatus.DAL\obj\Debug\FindLicenseStatus.DAL.dll
+C:\Users\vep4\Desktop\FindLicenseStatus (2)\FindLicenseStatus\FindLicenseStatus.DAL\obj\Debug\FindLicenseStatus.DAL.pdb

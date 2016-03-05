@@ -1,0 +1,13 @@
+C:\Users\vep4\Desktop\FindLicenseStatus (2)\FindLicenseStatus\FindLinceseStatus.Model\bin\Release\FindLinceseStatus.Model.dll
+C:\Users\vep4\Desktop\FindLicenseStatus (2)\FindLicenseStatus\FindLinceseStatus.Model\bin\Release\FindLinceseStatus.Model.pdb
+C:\Users\vep4\Desktop\FindLicenseStatus (2)\FindLicenseStatus\FindLinceseStatus.Model\obj\Release\FindLinceseStatus.Model.dll
+C:\Users\vep4\Desktop\FindLicenseStatus (2)\FindLicenseStatus\FindLinceseStatus.Model\obj\Release\FindLinceseStatus.Model.pdb
+C:\Users\Andrei\Desktop\Monitor\FindLicenseStatus (5)\FindLicenseStatus\FindLinceseStatus.Model\bin\Release\FindLinceseStatus.Model.dll
+C:\Users\Andrei\Desktop\Monitor\FindLicenseStatus (5)\FindLicenseStatus\FindLinceseStatus.Model\bin\Release\FindLinceseStatus.Model.pdb
+C:\Users\Andrei\Desktop\Monitor\FindLicenseStatus (5)\FindLicenseStatus\FindLinceseStatus.Model\obj\Release\FindLinceseStatus.Model.dll
+C:\Users\Andrei\Desktop\Monitor\FindLicenseStatus (5)\FindLicenseStatus\FindLinceseStatus.Model\obj\Release\FindLinceseStatus.Model.pdb
+C:\Users\Andrei\Desktop\Monitor\FindLicenseStatus (5)\FindLicenseStatus\FindLinceseStatus.Model\obj\Release\FindLinceseStatus.Model.csprojResolveAssemblyReference.cache
+C:\Users\vep4\Desktop\Monitor\FindLicenseStatus-180\FindLicenseStatus (5)\FindLicenseStatus\FindLinceseStatus.Model\bin\Release\FindLinceseStatus.Model.dll
+C:\Users\vep4\Desktop\Monitor\FindLicenseStatus-180\FindLicenseStatus (5)\FindLicenseStatus\FindLinceseStatus.Model\bin\Release\FindLinceseStatus.Model.pdb
+C:\Users\vep4\Desktop\Monitor\FindLicenseStatus-180\FindLicenseStatus (5)\FindLicenseStatus\FindLinceseStatus.Model\obj\Release\FindLinceseStatus.Model.dll
+C:\Users\vep4\Desktop\Monitor\FindLicenseStatus-180\FindLicenseStatus (5)\FindLicenseStatus\FindLinceseStatus.Model\obj\Release\FindLinceseStatus.Model.pdb
